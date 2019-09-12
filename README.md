@@ -4,4 +4,4 @@ Mint-Y theme made to match the Papirus-Remix icon theme
 
 Icon theme: https://gitlab.com/sira313/papirus-remix
 
-![](screen.png)
+![](images/screen.png)
